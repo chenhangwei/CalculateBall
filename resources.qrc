@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>airship.png</file>
+    </qresource>
+</RCC>
